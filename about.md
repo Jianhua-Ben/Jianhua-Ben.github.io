@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Jianhua's Blog
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+世界那么大，我都想知道。
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[benlee408@gmail.com](mailto:email@domain.com)
