@@ -1,10 +1,11 @@
 ---
 layout: post
-title: You're up and running!
+title: 第一篇GitHub的文章
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+弄了一个下午终于成功搭建了自己的第一个Github Page, 不得不承认自己真的已经上年纪了。
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+
+![C26E7824-32E5-41BB-B283-081FBB07C32D](https://tva1.sinaimg.cn/large/008eGmZEly1gnxl4fd6hyj30k00k0tep.jpg)
+
